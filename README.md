@@ -1,6 +1,5 @@
 # Customer_Segmentation
 Performed K-Means clustering on Life Insurance and Term Insurance data for segmentation purpose.
-Performed clustering on independent variables like Avg_Age, Income_Range, Social_Class and Policy_Proba.
 
 Steps:
 
